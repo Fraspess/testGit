@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pavlo\\source\\repos\\ConsoleApplication31\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B2D0BA2-CAE6-4389-A5D4-0EB264F966A1}|ConsoleApplication31\\ConsoleApplication31.vcxproj|C:\\Users\\pavlo\\source\\repos\\ConsoleApplication31\\ConsoleApplication31\\ConsoleApplication31.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B2D0BA2-CAE6-4389-A5D4-0EB264F966A1}|ConsoleApplication31\\ConsoleApplication31.vcxproj|solutionrelative:ConsoleApplication31\\ConsoleApplication31.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApplication31.cpp",
+              "DocumentMoniker": "C:\\Users\\pavlo\\source\\repos\\ConsoleApplication31\\ConsoleApplication31\\ConsoleApplication31.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication31\\ConsoleApplication31.cpp",
+              "ToolTip": "C:\\Users\\pavlo\\source\\repos\\ConsoleApplication31\\ConsoleApplication31\\ConsoleApplication31.cpp*",
+              "RelativeToolTip": "ConsoleApplication31\\ConsoleApplication31.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-14T12:23:19.767Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
